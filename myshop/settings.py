@@ -34,6 +34,7 @@ ALLOWED_HOSTS = [
 
 INTERNAL_IPS = [
     '127.0.0.1',
+    'OllyLo.pythonanywhere.com',
 ]
 
 # Application definition
